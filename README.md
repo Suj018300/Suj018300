@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=
   Java+%26+Spring+Boot+Microservices+Developer;
   React,+Flutter+Developer+%26+UI%2FUX+Designer;
-  OWASP+VulnerableApp+Open-Source+Contributor+
+  OWASP+VulnerableApp+Open-Source+Contributor
   <!-- -SasanLabs -->;
   Java+Full+Stack+Developer+%26+CyberSecurity+learner;
   Linux+Enthusiast+>+Arch%2C+Kali+%26+Ubuntu"

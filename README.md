@@ -42,53 +42,23 @@ Tech Stack
 </a>
 </p>
 
-Featured Projects
+## Featured Projects
 
-Project
+| Project | Stack | Highlights |
+| :--- | :--- | :--- |
+| [**Patient Management System**](https://github.com/Suj018300/Patient_Management--Spring_Boot_Microserices_Project) | `Java` `Spring Boot` `Microservices` | Microservices-based patient management architecture built with Spring Boot. |
+| [**Ticket Booking System**](https://github.com/Suj018300/Ticket_Booking_System--Java_Full_Stack) | `Java` `TypeScript` `Full-Stack` | End-to-end ticket booking platform combining a Java backend with a TypeScript frontend. |
+| [**Muzzic App**](https://github.com/Suj018300/Muzzic-app---Upload-Stream-and-play-music) | `Dart` `Flutter` | Audio upload, streaming, and music playback mobile application. |
+| [**Task App**](https://github.com/Suj018300/task_app) | `Flutter` `Cubit (Bloc)` `Node.js` `TypeScript` `PostgreSQL` `Docker` | Backend-focused task manager pairing Flutter state management with an Express/PostgreSQL API. |
+| [**Auth Backend**](https://github.com/Suj018300/auth-backend) | `Java` | Dedicated authentication and authorization backend service. |
 
-Stack
+## Open Source & Community
 
-Highlights
+* [**SasanLabs/Owasp-VulnerableApp-Website**](https://github.com/SasanLabs/Owasp-VulnerableApp-Website): Opened and reviewed a pull request for the OWASP VulnerableApp Website landing page ([fork](https://github.com/Suj018300/Owasp-VulnerableApp-Website), [design repo](https://github.com/Suj018300/VulnerableApp-landing-page-design)).
+* [**SasanLabs/VulnerableApp**](https://github.com/SasanLabs/VulnerableApp): Proposed and designed a responsive dark/light landing page based on Figma wireframes.
+* [**LeetCode DSA Log**](https://github.com/Suj018300/LeetCode): Active Java problem-solving repository synced via LeetHub v2.
 
-Patient Management System
-
-Java Spring Boot Microservices
-
-Microservices-based patient management architecture built with Spring Boot.
-
-Ticket Booking System
-
-Java TypeScript Full-Stack
-
-End-to-end ticket booking platform combining a Java backend with a TypeScript frontend.
-
-Muzzic App
-
-Dart Flutter
-
-Audio upload, streaming, and music playback mobile application.
-
-Task App
-
-Flutter Cubit (Bloc) Node.js TypeScript PostgreSQL Docker
-
-Backend-focused task manager pairing Flutter state management with an Express/PostgreSQL API.
-
-Auth Backend
-
-Java
-
-Dedicated authentication and authorization backend service.
-
-Open Source & Community
-
-SasanLabs/Owasp-VulnerableApp-Website: Opened and reviewed a pull request for the OWASP VulnerableApp Website landing page (fork, design repo).
-
-SasanLabs/VulnerableApp: Proposed and designed a responsive dark/light landing page based on Figma wireframes.
-
-LeetCode DSA Log: Active Java problem-solving repository synced via LeetHub v2.
-
-GitHub Analytics, Streaks & Activity Graph
+## GitHub Analytics, Streaks & Activity Graph
 
 <table>
 <tr>

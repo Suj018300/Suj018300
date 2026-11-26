@@ -22,11 +22,11 @@
 location: "Thane, Maharashtra, India"
 focus:
   - "Java & Spring Boot Microservices"
-  - "Full-Stack Web (TypeScript, React, Node.js, PostgreSQL)"
-  - "Cross-Platform Mobile (Flutter, Dart, Bloc/Cubit)"
+  - "Full-Stack Developer (Java, React, PostgreSQL)"
+  - "Cross-Platform Mobile (Flutter, Dart)"
   - "UI/UX Design & Wireframing (Figma, Behance)"
 open_source: "OWASP VulnerableApp Contributor (SasanLabs)"
-daily_driver: "Arch Linux & Ubuntu | Docker | Neovim / IntelliJ"
+daily_driver: "Arch Linux & Ubuntu | Docker | IntelliJ"
 ```
 
 ## Tech Stack
@@ -34,7 +34,7 @@ daily_driver: "Arch Linux & Ubuntu | Docker | Neovim / IntelliJ"
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,express,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" align="center"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" align="center"/>
 </a>
 </p>
 

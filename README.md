@@ -84,9 +84,9 @@ daily_driver: Arch Linux | Docker | IntelliJ
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suj018300&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suj018300&theme=tokyonight" alt="Profile Summary" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suj018300&theme=tokyo-night&hide_border=true&area=true" alt="Sujal's GitHub Activity Graph" />

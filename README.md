@@ -71,9 +71,9 @@ Tech Stack
 </tr>
 </table>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suj018300&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
+</p> -->
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suj018300&theme=tokyonight" alt="Profile Summary" />
@@ -83,6 +83,6 @@ Tech Stack
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Suj018300&theme=tokyo-night&hide_border=true&area=true" alt="Sujal's GitHub Activity Graph" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" alt="Footer" />
-</p>
+</p> -->

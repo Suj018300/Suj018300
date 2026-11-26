@@ -40,7 +40,7 @@ daily_driver: Arch Linux | Docker | IntelliJ
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,AWS,docker,linux,arch,git,github,postman,intellij,figma,notion&perline=12" alt="Databases, DevOps and Design" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,aws,docker,linux,arch,git,github,postman,intellij,figma,notion&perline=12" alt="Databases, DevOps and Design" />
 </a>
 </p>
 

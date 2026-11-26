@@ -1,15 +1,118 @@
-# 💫 About Me:
-Passionate about building reliable backend systems and exploring modern software architecture. I enjoy working with Linux (especially Arch Linux), automating development workflows, and diving deep into system internals. Always learning, always building, and always curious about open-source technologies.
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Sujal%20Bendre&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Flutter%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=18" alt="Header" />
+</p>
+
+<p align="center">
+<a href="https://github.com/Suj018300">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot+Microservices+Developer;Flutter+%26+TypeScript+Full-Stack+Builder;OWASP+Open-Source+Contributor+%26+UI%2FUX+Designer;Arch+Linux+%26+Docker+Enthusiast" alt="Typing SVG" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/bendresujal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.behance.net/BendreSujal"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
+<a href="https://nest.owasp.org/members/Suj018300"><img src="https://img.shields.io/badge/OWASP_Nest-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP Nest" /></a>
+<a href="mailto:sujalbendre2526@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://github.com/Suj018300"><img src="https://komarev.com/ghpvc/?username=Suj018300&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
+</p>
+
+About Me
+
+location: "Thane, Maharashtra, India"
+focus:
+  - "Java & Spring Boot Microservices"
+  - "Full-Stack Web (TypeScript, React, Node.js, PostgreSQL)"
+  - "Cross-Platform Mobile (Flutter, Dart, Bloc/Cubit)"
+  - "UI/UX Design & Wireframing (Figma, Behance)"
+open_source: "OWASP VulnerableApp Contributor (SasanLabs)"
+daily_driver: "Arch Linux & Ubuntu | Docker | Neovim / IntelliJ"
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bendresujal) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sujalbendre2526@gmail.com) 
+Tech Stack
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=for-the-badge&labelColor=171717&logoColor=5cb85c) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Suj018300&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Suj018300&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suj018300&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,express,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" />
+</a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux,arch,git,github,postman,figma&perline=10" alt="Databases, DevOps and Design" />
+</a>
+</p>
+
+Featured Projects
+
+Project
+
+Stack
+
+Highlights
+
+Patient Management System
+
+Java Spring Boot Microservices
+
+Microservices-based patient management architecture built with Spring Boot.
+
+Ticket Booking System
+
+Java TypeScript Full-Stack
+
+End-to-end ticket booking platform combining a Java backend with a TypeScript frontend.
+
+Muzzic App
+
+Dart Flutter
+
+Audio upload, streaming, and music playback mobile application.
+
+Task App
+
+Flutter Cubit (Bloc) Node.js TypeScript PostgreSQL Docker
+
+Backend-focused task manager pairing Flutter state management with an Express/PostgreSQL API.
+
+Auth Backend
+
+Java
+
+Dedicated authentication and authorization backend service.
+
+Open Source & Community
+
+SasanLabs/Owasp-VulnerableApp-Website: Opened and reviewed a pull request for the OWASP VulnerableApp Website landing page (fork, design repo).
+
+SasanLabs/VulnerableApp: Proposed and designed a responsive dark/light landing page based on Figma wireframes.
+
+LeetCode DSA Log: Active Java problem-solving repository synced via LeetHub v2.
+
+GitHub Analytics, Streaks & Activity Graph
+
+<table>
+<tr>
+<td>
+<img src="https://github-readme-stats.shion.dev/api?username=Suj018300&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Sujal's GitHub Stats" />
+</td>
+<td>
+<img src="https://streak-stats.demolab.com/?user=Suj018300&theme=tokyonight&hide_border=true" alt="Sujal's GitHub Streak" />
+</td>
+</tr>
+</table>
+
+<p align="center">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Suj018300&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suj018300&theme=tokyonight" alt="Profile Summary" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suj018300&theme=tokyo-night&hide_border=true&area=true" alt="Sujal's GitHub Activity Graph" />
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" alt="Footer" />
+</p>

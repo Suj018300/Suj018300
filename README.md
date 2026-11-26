@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/Suj018300">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot+Microservices+Developer;Flutter+%26+TypeScript+Full-Stack+Builder;OWASP+Open-Source+Contributor+%26+UI%2FUX+Designer;Arch+Linux+%26+Docker+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=680&lines=Java+%26+Spring+Boot+Microservices+Developer;Flutter+%26+TypeScript+Full-Stack+Builder;OWASP+Open-Source+Contributor+%26+UI%2FUX+Designer;Linux+Enthusiast+with+Arch+,+Kali+%26+Ubuntu" alt="Typing SVG" />
 </a>
 </p>
 

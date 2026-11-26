@@ -16,8 +16,9 @@
 <a href="https://github.com/Suj018300"><img src="https://komarev.com/ghpvc/?username=Suj018300&color=0e75b6&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" /></a>
 </p>
 
-About Me
+## About Me
 
+```yaml
 location: "Thane, Maharashtra, India"
 focus:
   - "Java & Spring Boot Microservices"
@@ -26,9 +27,10 @@ focus:
   - "UI/UX Design & Wireframing (Figma, Behance)"
 open_source: "OWASP VulnerableApp Contributor (SasanLabs)"
 daily_driver: "Arch Linux & Ubuntu | Docker | Neovim / IntelliJ"
+```
 
+## Tech Stack
 
-Tech Stack
 
 <p align="center">
 <a href="https://skillicons.dev">

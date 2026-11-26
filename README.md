@@ -32,7 +32,7 @@ Tech Stack
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,express,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" />
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,express,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" align="center"/>
 </a>
 </p>
 

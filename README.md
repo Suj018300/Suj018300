@@ -19,14 +19,14 @@
 ## About Me
 
 ```yaml
-location: "Thane, Maharashtra, India"
+location: Thane, Maharashtra, India
 focus:
-  - "Java & Spring Boot Microservices"
-  - "Full-Stack Developer (Java, React, PostgreSQL)"
-  - "Cross-Platform Mobile (Flutter, Dart)"
-  - "UI/UX Design & Wireframing (Figma, Behance)"
-open_source: "OWASP VulnerableApp Contributor (SasanLabs)"
-daily_driver: "Arch Linux & Ubuntu | Docker | IntelliJ"
+  - Java & Spring Boot Microservices
+  - Full-Stack Developer (Java, React, PostgreSQL)
+  - Cross-Platform Mobile (Flutter, Dart)
+  - UI/UX Design & Wireframing (Figma)
+open_source: OWASP VulnerableApp Contributor (SasanLabs)
+daily_driver: Arch Linux | Docker | IntelliJ
 ```
 
 ## Tech Stack
@@ -34,13 +34,13 @@ daily_driver: "Arch Linux & Ubuntu | Docker | IntelliJ"
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,dart,flutter,py,cpp,html,css,bash&perline=8" alt="Languages and Frameworks" align="center"/>
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,ts,js,react,nodejs,dart,flutter,py,cpp,html,css,bash&perline=7" alt="Languages and Frameworks" align="center"/>
 </a>
 </p>
 
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,linux,arch,git,github,postman,figma&perline=10" alt="Databases, DevOps and Design" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,AWS,docker,linux,arch,git,github,postman,intellij,figma,notion&perline=12" alt="Databases, DevOps and Design" />
 </a>
 </p>
 

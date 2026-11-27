@@ -1,4 +1,4 @@
-<p align="center">
+<!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:06b6d4&height=220&section=header&text=Sujal%20Bendre&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer%20%7C%20Flutter%20%7C%20UI/UX%20Designer&descAlignY=60&descSize=18" alt="" />
 </p>
 
@@ -86,4 +86,4 @@ daily_driver: Arch Linux | Docker | IntelliJ
 
 <!-- <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:1e3a8a,100:0f172a&height=120&section=footer" alt="Footer" />
-</p> -->
+</p> --> -->

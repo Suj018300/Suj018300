@@ -48,10 +48,9 @@ daily_driver: Arch Linux | Docker | IntelliJ
 
 | Project | Stack | Highlights |
 | :--- | :--- | :--- |
-| [**Patient Management System**](https://github.com/Suj018300/Patient_Management--Spring_Boot_Microserices_Project) | `Java` `Spring Boot` `Microservices` | Microservices-based patient management architecture built with Spring Boot. |
-| [**Ticket Booking System**](https://github.com/Suj018300/Ticket_Booking_System--Java_Full_Stack) | `Java` `TypeScript` `Full-Stack` | End-to-end ticket booking platform combining a Java backend with a TypeScript frontend. |
+| [**Patient Management System**](https://github.com/Suj018300/Patient_Management--Spring_Boot_Microserices_Project) | `Java` `Spring Boot` `API gateway` `Kafka` `Microservices` | Microservices-based patient management architecture built with Spring Boot. |
+| [**Ticket Booking System**](https://github.com/Suj018300/Ticket_Booking_System--Java_Full_Stack) | `Java` `React` `Spring Boot` `Full-Stack` | End-to-end ticket booking platform combining a Java backend with a TypeScript frontend. |
 | [**Muzzic App**](https://github.com/Suj018300/Muzzic-app---Upload-Stream-and-play-music) | `Dart` `Flutter` | Audio upload, streaming, and music playback mobile application. |
-| [**Task App**](https://github.com/Suj018300/task_app) | `Flutter` `Cubit (Bloc)` `Node.js` `TypeScript` `PostgreSQL` `Docker` | Backend-focused task manager pairing Flutter state management with an Express/PostgreSQL API. |
 | [**Auth Backend**](https://github.com/Suj018300/auth-backend) | `Java` | Dedicated authentication and authorization backend service. |
 
 ## Open Source & Community
